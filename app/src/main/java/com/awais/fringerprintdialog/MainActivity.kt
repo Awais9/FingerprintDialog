@@ -57,6 +57,7 @@ class MainActivity : AppCompatActivity(), FingerprintInterface {
     }
 
     private fun init() {
+
         mView = LayoutInflater.from(this).inflate(R.layout.finger_print_dialog_view, null)
         messageTV = mView.message_tv
         sheetDialog = BottomSheetDialog(this)
