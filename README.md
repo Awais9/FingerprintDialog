@@ -2,6 +2,10 @@ Android Fingerprint Dialog
 By this you can get the fingerprint authentication and can use it from any activity.
 Note: All code is writen in Kotlin
 
+<br>
+<img src="screenshots/Screenshot_20180802-150914.png" width="200" height="400" >
+</br>
+
 Add as dependency 
 
 Add following into your main project gradle file
