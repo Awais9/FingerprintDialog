@@ -1,4 +1,5 @@
 Android Fingerprint Dialog
+
 By this you can get the fingerprint authentication and can use it from any activity.
 Note: All code is writen in Kotlin
 
